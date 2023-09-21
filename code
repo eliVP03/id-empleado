@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Página de imagen</title>
+</head>
+<body>
+    <img src="URL_de_la_imagen" alt="Descripción de la imagen">
+</body>
+</html>
