@@ -4,6 +4,6 @@
     <title>Página de imagen</title>
 </head>
 <body>
-    <img src="URL_de_la_imagen" alt="Descripción de la imagen">
+    <img src="https://github.com/eliVP03/id-empleado/blob/main/Identificaci%C3%B3n%20Electr%C3%B3nica.png" alt="ID Empleado QUIFA">
 </body>
 </html>
